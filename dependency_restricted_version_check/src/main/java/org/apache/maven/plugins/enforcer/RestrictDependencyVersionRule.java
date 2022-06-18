@@ -43,7 +43,6 @@ public class RestrictDependencyVersionRule implements EnforcerRule {
     }
 
     public String getCacheId() {
-        //no hash on boolean...only parameter so no hash is needed.
         return "true";
     }
 
