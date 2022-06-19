@@ -11,7 +11,7 @@ Plugin is going to check project doesn't have depdendecy's versions like RELEASE
                 <version>3.0.0</version>
                 <dependencies>
                     <dependency>
-                        <groupId>com.github.DaniilRoman</groupId>
+                        <groupId>io.github.DaniilRoman</groupId>
                         <artifactId>dependency_restricted_version_check</artifactId>
                         <version>1.0-SNAPSHOT</version>
                     </dependency>
