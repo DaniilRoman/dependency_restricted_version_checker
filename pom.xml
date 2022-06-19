@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.DaniilRoman</groupId>
-    <artifactId>dependency_restricted_version_check_parent</artifactId>
+    <artifactId>dependency_restricted_version_checker_parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>dependency_restricted_version_check</module>
+        <module>dependency_restricted_version_checker</module>
         <module>usage_example</module>
     </modules>
 
@@ -27,9 +27,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:DaniilRoman/dependency_restricted_version_check.git</connection>
-        <developerConnection>scm:git:ssh://github.com:DaniilRoman/dependency_restricted_version_check.git</developerConnection>
-        <url>https://github.com/DaniilRoman/dependency_restricted_version_check/tree/master</url>
+        <connection>scm:git:git@github.com:DaniilRoman/dependency_restricted_version_checker.git</connection>
+        <developerConnection>scm:git:ssh://github.com:DaniilRoman/dependency_restricted_version_checker.git</developerConnection>
+        <url>https://github.com/DaniilRoman/dependency_restricted_version_checker/tree/master</url>
     </scm>
 
     <properties>
