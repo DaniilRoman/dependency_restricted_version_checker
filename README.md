@@ -21,7 +21,7 @@ Plugin is going to check project doesn't have depdendecy's versions like RELEASE
                         <id>enforce</id>
                         <configuration>
                             <rules>
-                                <myCustomRule implementation="org.apache.maven.plugins.enforcer.RestrictDependencyVersionRule">
+                                <myCustomRule implementation="RestrictDependencyVersionRule">
                                     <enabled>false</enabled>
                                 </myCustomRule>
                             </rules>

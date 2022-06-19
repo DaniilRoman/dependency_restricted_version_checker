@@ -47,7 +47,7 @@
                         <id>enforce</id>
                         <configuration>
                             <rules>
-                                <myCustomRule implementation="org.apache.maven.plugins.enforcer.RestrictDependencyVersionRule">
+                                <myCustomRule implementation="io.github.daniilroman.versionchecker.RestrictDependencyVersionRule">
                                     <enabled>false</enabled>
                                 </myCustomRule>
                             </rules>

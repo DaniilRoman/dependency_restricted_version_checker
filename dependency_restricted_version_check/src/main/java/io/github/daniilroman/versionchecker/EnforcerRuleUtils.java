@@ -1,4 +1,4 @@
-package org.apache.maven.plugins.enforcer;
+package io.github.daniilroman.versionchecker;
 
 import org.apache.maven.enforcer.rule.api.EnforcerRuleHelper;
 import org.apache.maven.project.MavenProject;
