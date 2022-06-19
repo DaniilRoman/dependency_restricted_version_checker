@@ -12,7 +12,7 @@ Plugin is going to check project doesn't have depdendecy's versions like RELEASE
                 <dependencies>
                     <dependency>
                         <groupId>io.github.DaniilRoman</groupId>
-                        <artifactId>dependency_restricted_version_check</artifactId>
+                        <artifactId>dependency_restricted_version_checker</artifactId>
                         <version>1.0-SNAPSHOT</version>
                     </dependency>
                 </dependencies>
@@ -43,7 +43,7 @@ Plugin is going to check project doesn't have depdendecy's versions like RELEASE
 ```xml
 <dependency>
     <groupId>io.github.DaniilRoman</groupId>
-    <artifactId>dependency_restricted_version_check</artifactId>
+    <artifactId>dependency_restricted_version_checker</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
