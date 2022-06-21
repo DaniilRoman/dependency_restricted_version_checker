@@ -13,7 +13,7 @@ Plugin is going to check project doesn't have depdendecy's versions like RELEASE
                     <dependency>
                         <groupId>io.github.DaniilRoman</groupId>
                         <artifactId>dependency_restricted_version_checker</artifactId>
-                        <version>1.0-SNAPSHOT</version>
+                        <version>1.0</version>
                     </dependency>
                 </dependencies>
                 <executions>
@@ -44,6 +44,6 @@ Plugin is going to check project doesn't have depdendecy's versions like RELEASE
 <dependency>
     <groupId>io.github.DaniilRoman</groupId>
     <artifactId>dependency_restricted_version_checker</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 </dependency>
 ```

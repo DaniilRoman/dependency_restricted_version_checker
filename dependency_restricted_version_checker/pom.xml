@@ -7,7 +7,7 @@
 
     <groupId>io.github.DaniilRoman</groupId>
     <artifactId>dependency_restricted_version_checker</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
@@ -35,6 +35,7 @@
         </repository>
     </distributionManagement>
 
+<!--    gpg-private-key: ${{ secrets.MAVEN_GPG_PRIVATE_KEY }}-->
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
